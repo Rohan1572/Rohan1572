@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rohan
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML/CSS/Js
+- 🌱 I’m currently learning Frontend
 - 📫 How to reach me: hellorohan02@gmail.com
 
 <!---
